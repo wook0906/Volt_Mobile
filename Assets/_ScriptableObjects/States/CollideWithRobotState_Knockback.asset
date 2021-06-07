@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a59175f41f597423385687b98db1d27a, type: 3}
+  m_Name: CollideWithRobotState_Knockback
+  m_EditorClassIdentifier: 
+  transitions:
+  - decision: {fileID: 11400000, guid: 90f84dff4e955423ca536a829212270f, type: 2}
+    trueState: {fileID: 11400000, guid: afb9e2de36dfa419695503e94743f035, type: 2}
+    falseState: {fileID: 0}
+  - decision: {fileID: 11400000, guid: 6d2684e44c4de4a3589e6ca27b633139, type: 2}
+    trueState: {fileID: 11400000, guid: 73e5f472f464041fcb929aa221163491, type: 2}
+    falseState: {fileID: 0}
+  - decision: {fileID: 11400000, guid: 6c4814d90ac774a5e95c0d0156c83a49, type: 2}
+    trueState: {fileID: 11400000}
+    falseState: {fileID: 0}
+  - decision: {fileID: 11400000, guid: 187327cd8e010f9449acfe15a64a8e11, type: 2}
+    trueState: {fileID: 11400000, guid: 36bd0b336758f46a0a5658861b8cbbdc, type: 2}
+    falseState: {fileID: 0}
+  - decision: {fileID: 11400000, guid: 743684aaf53cf4afc82a2f562e7c921d, type: 2}
+    trueState: {fileID: 11400000, guid: 494e691a3a5424ddbb91944f725ea369, type: 2}
+    falseState: {fileID: 0}
+  gizmoColor: {r: 1, g: 0, b: 0.7058824, a: 0.49019608}

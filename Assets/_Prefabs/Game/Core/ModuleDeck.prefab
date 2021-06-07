@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8453717130863975224
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8453717130863975226}
+  - component: {fileID: 8453717130863975227}
+  m_Layer: 0
+  m_Name: ModuleDeck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8453717130863975226
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8453717130863975224}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -44.05, y: -0.28006706, z: 1.604698}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8453717130863975227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8453717130863975224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00af81c12b07d374b86e635c6edbeac3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moduleDeckSettingDatas:
+  - {fileID: 11400000, guid: 401062709fcda9e4688d13b22be2ad1c, type: 2}
+  - {fileID: 11400000, guid: e0bf086cf35670444827d5d72be7a098, type: 2}
+  - {fileID: 11400000, guid: afb1c9d2ef8827e4ab1d8149eb6ea6ef, type: 2}
+  - {fileID: 11400000, guid: 6088ebbd5c89a454ca2450bd5af96cd7, type: 2}
+  attackCardPrefabs:
+  - {fileID: 5674614560968749702, guid: 59595463f4b5ca047829ad85470c5954, type: 3}
+  - {fileID: 2363666879474107051, guid: 886157abd21d74f4f99e199f02a747d2, type: 3}
+  - {fileID: 7666597059736608166, guid: a6050786645e74af5bab3130368d6d91, type: 3}
+  - {fileID: 1185969305103445846, guid: 5d86e3ea87df85a4e8b89a3c4951d70f, type: 3}
+  - {fileID: 3406319537503541749, guid: 9cfd0c9a2bc9945f98ecb6574eea73c3, type: 3}
+  - {fileID: 3479605940600095224, guid: 271d426a6a7524cafb9127de66dd2ab4, type: 3}
+  - {fileID: 7306221284046081582, guid: fa7b352f606c6bd4787affee9b8daab5, type: 3}
+  - {fileID: 371310371520265483, guid: 90911606e1af09b41abf15c34afbf2dc, type: 3}
+  moveCardPrefabs:
+  - {fileID: 5175348788740509469, guid: 665a7f6de9d634be0aa4e8061b4cc974, type: 3}
+  - {fileID: 6357091982571992363, guid: 413eaa0eccb54f947ba10b6623a8dd2b, type: 3}
+  - {fileID: 7631700289551425124, guid: 1028a5f91da0fbd4c93a9e2a736c7522, type: 3}
+  - {fileID: 2252491465084424753, guid: 0fd40bc3025000243ac9ecd14304d52c, type: 3}
+  tacticCardPrefabs:
+  - {fileID: 2069553459398083169, guid: 6a97202c34a5644dbacbc3069cae9ba5, type: 3}
+  - {fileID: 8765460467093882792, guid: c158558072bbb4641ae9339fe6043806, type: 3}
+  - {fileID: 6017066697405922287, guid: a1ab6028b9106bf4fa9dda3fee8a598e, type: 3}
+  - {fileID: 732646582989431123, guid: fd57e32c2eafe19408be8ae59524b6a7, type: 3}
+  - {fileID: 6807697343828917901, guid: f4d1fbe3b21ca4bda894c7f9490ef9db, type: 3}
+  - {fileID: 775102223916278706, guid: 0827293d43d601142aedcd068b952e69, type: 3}
+  - {fileID: 1141313612302703626, guid: 46806f00cf0914bad9c9279c1a5f559d, type: 3}
+  attackCardDeck: []
+  moveCardDeck: []
+  tacticCardDeck: []
+  moduleTypePercentage: 

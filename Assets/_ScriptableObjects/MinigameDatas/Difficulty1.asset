@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 297c13de114c3e943916e3e54ac39c29, type: 3}
+  m_Name: Difficulty1
+  m_EditorClassIdentifier: 
+  difficulty: 1
+  numOfMaxDropObjAtOnce: 12
+  numOfMinDropObjAtOnce: 10
+  termOfDrop: 4
+  opportunityOfDrop: 5
+  maxDistanceOfDrop: 45
+  minDistanceOfDrop: 10
+  objSpeed: 5
+  probabilties: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000100000001000000010000000100000001000000010000000100000001000000
+  waitTimeBeforeMoveObj: 0.15

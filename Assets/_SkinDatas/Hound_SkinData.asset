@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4d873d98a82f6f459deb0dc7e140113, type: 3}
+  m_Name: Hound_SkinData
+  m_EditorClassIdentifier: 
+  robotType: 2
+  RobotSkins:
+  - RobotType: 2
+    SkinType: 0
+    Skin: []
+    skinImage: {fileID: 2800000, guid: d63fdf635b0fe5142a10be88f2cbb007, type: 3}
+    skinID: -1
+    skinName_KR: "\uD558\uC6B4\uB4DC"
+    skinName_EN: Hound
+    skinName_GER: Hund
+    skinName_Fren: Hound
+    skinPrefab: {fileID: 8812599389943609627, guid: 0228d5f73ecbe4aff99b6a6810482fb9,
+      type: 3}
+  - RobotType: 2
+    SkinType: 5
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 86fb44f581f63c04b8094af58ffecb46, type: 3}
+    skinID: 5000020
+    skinName_KR: "\uBE14\uB8E8 \uD558\uC6B4\uB4DC"
+    skinName_EN: Blue Hound
+    skinName_GER: 'Blauzahn-Hund '
+    skinName_Fren: None
+    skinPrefab: {fileID: 8647511890155864264, guid: 9052bf53e0d1348ddb6f4901a1c17d2e,
+      type: 3}
+  - RobotType: 2
+    SkinType: 2
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 9255aa977477402489a3750b06c21743, type: 3}
+    skinID: 5000021
+    skinName_KR: "\uAD70\uACAC \uD558\uC6B4\uB4DC"
+    skinName_EN: Military Hound
+    skinName_GER: "Milit\xE4rhund"
+    skinName_Fren: None
+    skinPrefab: {fileID: 2394712972093431646, guid: 55864b9c67663448d9e5ace36739565b,
+      type: 3}
+  - RobotType: 2
+    SkinType: 4
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 80fce8d262392ae45875ba551bc79f79, type: 3}
+    skinID: 5000022
+    skinName_KR: "\uC6D0\uC2DC\uACAC \uD558\uC6B4\uB4DC"
+    skinName_EN: Ancient weapon Hound
+    skinName_GER: "Altert\xFCmlicher Hund"
+    skinName_Fren: None
+    skinPrefab: {fileID: 7162147864749894459, guid: 9583bfb251ab64eff8f963eb40a9b15b,
+      type: 3}
+  - RobotType: 2
+    SkinType: 1
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 0b4ea195431d07946a3fc112ae845271, type: 3}
+    skinID: 5000023
+    skinName_KR: "\uD5EC \uD558\uC6B4\uB4DC"
+    skinName_EN: The hell Hound
+    skinName_GER: "H\xF6llenhund"
+    skinName_Fren: None
+    skinPrefab: {fileID: 732196508233259875, guid: bbc74f134a85c45bfaab64d134d14111,
+      type: 3}
+  - RobotType: 2
+    SkinType: 3
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 70dc656f1e59d4b469106c36ac981ed5, type: 3}
+    skinID: 5000024
+    skinName_KR: "\uB124\uC628\uC0AC\uC778 \uD558\uC6B4\uB4DC"
+    skinName_EN: Neon-sign Hound
+    skinName_GER: Neon-Hund
+    skinName_Fren: None
+    skinPrefab: {fileID: 7635201532804031695, guid: de69bcc38994640b3a54c267de6c013d,
+      type: 3}

@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: 44c42da8504e14064b8f8210ef0b74d7
+  m_BuildRemoteCatalog: 1
+  m_BundleLocalCatalog: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_UniqueBundleIds: 0
+  m_RemoteCatalogBuildPath:
+    m_Id: 212bcd897f6c04290b984e2231978152
+  m_RemoteCatalogLoadPath:
+    m_Id: 15e712fda403549b4bf375b7cdb704ee
+  m_overridePlayerVersion: 
+  m_GroupAssets:
+  - {fileID: 11400000, guid: 0a307131dba7b400eb3274b5b49b37b5, type: 2}
+  - {fileID: 11400000, guid: 39c2bf82d75d34e6c9fa8cfbb3265c25, type: 2}
+  - {fileID: 11400000, guid: 913bb0cbfd8804cf98dd3fae67ae8052, type: 2}
+  - {fileID: 11400000, guid: 4949845cfdfd147c69dc49990fbf8337, type: 2}
+  - {fileID: 11400000, guid: eb38f3315eaaf4c1c976e6f39b73f057, type: 2}
+  - {fileID: 11400000, guid: 707c1c98fb75142e9aab4a42b7f28613, type: 2}
+  - {fileID: 11400000, guid: d04ee2507b318488988e77a9d208cc9c, type: 2}
+  - {fileID: 11400000, guid: 5252f84f1589140f688315e96d8fd873, type: 2}
+  - {fileID: 11400000, guid: 57c94705030074d58ab65ed41f05ddec, type: 2}
+  - {fileID: 11400000, guid: 51760d38f74e04bf0b787aab73a1332f, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 9859f72090b804ca48737a59645f9066
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: c04ec219ae8cf442c945a2361f7235a6
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 14a23ff4da7044534a4df4982f7606bd
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 9ecc4b9cfd7bc48178ebcc0f179fbca0
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 212bcd897f6c04290b984e2231978152
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 15e712fda403549b4bf375b7cdb704ee
+        m_Value: https://s3.ap-northeast-2.amazonaws.com/com.gfs.volt/[BuildTarget]
+    m_ProfileEntryNames:
+    - m_Id: c04ec219ae8cf442c945a2361f7235a6
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: 14a23ff4da7044534a4df4982f7606bd
+      m_Name: LocalBuildPath
+      m_InlineUsage: 0
+    - m_Id: 9ecc4b9cfd7bc48178ebcc0f179fbca0
+      m_Name: LocalLoadPath
+      m_InlineUsage: 0
+    - m_Id: 212bcd897f6c04290b984e2231978152
+      m_Name: RemoteBuildPath
+      m_InlineUsage: 0
+    - m_Id: 15e712fda403549b4bf375b7cdb704ee
+      m_Name: RemoteLoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - UI
+    - LobbyAtlas
+    - TitleAtlas
+    - SkinDatas
+    - Robot
+    - Prefab
+    - Material
+    - Texture
+    - SFX
+    - Data
+    - Scene
+    - DLC
+    - VFX
+    - Object
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 7009da5a9e102437bb9e6e4a080763d6, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: decacc6c9aaed47838815a0d9b5a944e, type: 2}
+  - {fileID: 11400000, guid: b9c0b08ccf2d342ba9b180f759c0d6a8, type: 2}
+  - {fileID: 11400000, guid: 44d0e14176bf84b90b742317f1dd9e11, type: 2}
+  - {fileID: 11400000, guid: d603052eeb3f94aea98463ffa5bc0c70, type: 2}
+  m_ActiveProfileId: 9859f72090b804ca48737a59645f9066
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5745fe2870b24c48a83566890c95467, type: 3}
+  m_Name: RobotMoveState
+  m_EditorClassIdentifier: 
+  transitions:
+  - decision: {fileID: 11400000, guid: 24dbb0121131f4b2e9ce1d7268854948, type: 2}
+    trueState: {fileID: 11400000, guid: 59f757443e4ad4c0b8ba21f8ccfcf955, type: 2}
+    falseState: {fileID: 0}
+  - decision: {fileID: 11400000, guid: 119a8fc326406499aaa802be7e0c8698, type: 2}
+    trueState: {fileID: 11400000, guid: 1fd718e303ef543349d73a5405ccdfbf, type: 2}
+    falseState: {fileID: 0}
+  - decision: {fileID: 11400000, guid: 6c4814d90ac774a5e95c0d0156c83a49, type: 2}
+    trueState: {fileID: 11400000, guid: 8246e296f5f278940ae4ebce29978a92, type: 2}
+    falseState: {fileID: 0}
+  - decision: {fileID: 11400000, guid: 67b5be4dad96a4bd49cb47d397cf4284, type: 2}
+    trueState: {fileID: 11400000, guid: 73e5f472f464041fcb929aa221163491, type: 2}
+    falseState: {fileID: 0}
+  - decision: {fileID: 11400000, guid: 743684aaf53cf4afc82a2f562e7c921d, type: 2}
+    trueState: {fileID: 11400000, guid: 1fd718e303ef543349d73a5405ccdfbf, type: 2}
+    falseState: {fileID: 0}
+  - decision: {fileID: 11400000, guid: 6df5d621449c9438d8e7d39208c927dd, type: 2}
+    trueState: {fileID: 11400000, guid: 6a8012ac888b043949a278551efb6925, type: 2}
+    falseState: {fileID: 0}
+  - decision: {fileID: 11400000, guid: 67b5be4dad96a4bd49cb47d397cf4284, type: 2}
+    trueState: {fileID: 11400000, guid: 73e5f472f464041fcb929aa221163491, type: 2}
+    falseState: {fileID: 0}
+  gizmoColor: {r: 0, g: 1, b: 0, a: 0.52156866}

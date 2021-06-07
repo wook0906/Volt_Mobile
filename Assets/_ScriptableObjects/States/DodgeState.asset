@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2ef70fbf4889450c86b0ca35e9032f8, type: 3}
+  m_Name: DodgeState
+  m_EditorClassIdentifier: 
+  transitions:
+  - decision: {fileID: 11400000, guid: 743684aaf53cf4afc82a2f562e7c921d, type: 2}
+    trueState: {fileID: 11400000, guid: 4b1114b9580534f4b90ad86946d960c1, type: 2}
+    falseState: {fileID: 0}
+  - decision: {fileID: 11400000, guid: fa0a50b8f0b354b20a8206fb25cc374a, type: 2}
+    trueState: {fileID: 11400000, guid: 22ba5f114f4ed4c03b878ae29e31391a, type: 2}
+    falseState: {fileID: 0}
+  gizmoColor: {r: 0, g: 0, b: 1, a: 1}

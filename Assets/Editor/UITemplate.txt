@@ -1,0 +1,57 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class $FileName$ : $Type$ 
+{
+    enum Buttons
+    {	
+        $UIButtons$
+    }
+
+    enum Labels
+    {
+        $UILabels$
+    }
+
+    enum ScrollViews
+    {
+        $UIScrollViews$
+    }
+
+    enum Sliders
+    {
+        $UISliders$
+    }
+
+    enum Progressbars
+    {
+        $UIProgressbars$
+    }
+
+    enum Toggles
+    {
+        $UIToggles$
+    }
+
+    enum Sprites
+    {
+        $UISprites$
+    }
+
+    enum GameObjects
+    {
+        $GameObjects$
+    }
+
+    public override void Init()
+    {
+        Bind<UIButton>(typeof(Buttons));
+        Bind<UILabel>(typeof(Labels));
+        Bind<UIScrollView>(typeof(ScrollViews));
+        Bind<UISlider>(typeof(Sliders));
+        Bind<UIProgressBar>(typeof(Progressbars));
+        Bind<UISprite>(typeof(Sprites));
+        Bind<GameObject>(typeof(GameObjects));
+     }
+}

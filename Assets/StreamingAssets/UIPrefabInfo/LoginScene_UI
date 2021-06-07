@@ -1,0 +1,35 @@
+<LoginScene_UI>
+  <LoginButtons_BG>
+    <UISprite Atlas="Volt_Panels" Sprite="middle pannel02_Opaque" />
+  </LoginButtons_BG>
+  <Google_Btn>
+    <UISprite Atlas="Volt_UI" Sprite="google login" />
+    <UIButton NormalSprite="google login" HoverSprite="google login" PressedSprite="google login-push" DisabledSprite="" />
+  </Google_Btn>
+  <Facebook_Btn>
+    <UISprite Atlas="Volt_UI" Sprite="facebook login" />
+    <UIButton NormalSprite="facebook login" HoverSprite="facebook login" PressedSprite="facebook login" DisabledSprite="" />
+  </Facebook_Btn>
+  <SignInApple_Btn>
+    <UISprite Atlas="Volt_UI" Sprite="appleid_button@2x" />
+    <UIButton NormalSprite="appleid_button@2x" HoverSprite="" PressedSprite="" DisabledSprite="" />
+  </SignInApple_Btn>
+  <GameStart_Btn>
+    <UISprite Atlas="Volt_UI" Sprite="Tips" />
+    <UIButton NormalSprite="Tips" HoverSprite="Tips" PressedSprite="Tips" DisabledSprite="Dark" />
+  </GameStart_Btn>
+  <Logout_Btn>
+    <UISprite Atlas="Volt_UI" Sprite="Btn_Buy_p" />
+    <UIButton NormalSprite="Btn_Buy_p" HoverSprite="Btn_Buy_p" PressedSprite="Btn_Buy_n" DisabledSprite="" />
+  </Logout_Btn>
+  <ResourcesLoadingBar>
+    <UISprite Atlas="Volt_UI" Sprite="bg_loading-bar01" />
+  </ResourcesLoadingBar>
+  <ForeGround_Sprite>
+    <UISprite Atlas="Volt_UI" Sprite="loading-bar01" />
+  </ForeGround_Sprite>
+  <TutorialSkip_Btn>
+    <UISprite Atlas="Volt_UI" Sprite="Btn_button01_n" />
+    <UIButton NormalSprite="Btn_button01_n" HoverSprite="Btn_button01_n" PressedSprite="Btn_button01_p" DisabledSprite="" />
+  </TutorialSkip_Btn>
+</LoginScene_UI>

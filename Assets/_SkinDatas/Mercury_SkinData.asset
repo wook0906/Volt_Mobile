@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4d873d98a82f6f459deb0dc7e140113, type: 3}
+  m_Name: Mercury_SkinData
+  m_EditorClassIdentifier: 
+  robotType: 1
+  RobotSkins:
+  - RobotType: 1
+    SkinType: 0
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 3667026c0087e6e408ecb159d4a6b417, type: 3}
+    skinID: -1
+    skinName_KR: "\uBA38\uD050\uB9AC"
+    skinName_EN: Mercury
+    skinName_GER: Mercury
+    skinName_Fren: Mercury
+    skinPrefab: {fileID: 1340868862636719552, guid: 3967fb05f79f84f48b7d6b03d5b49daf,
+      type: 3}
+  - RobotType: 1
+    SkinType: 6
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 5883ab3d8bf487248ba51a324c42d69c, type: 3}
+    skinID: 5000001
+    skinName_KR: "\uB808\uB4DC \uBA38\uD050\uB9AC"
+    skinName_EN: Red Mercury
+    skinName_GER: Scharlachroter Mercury
+    skinName_Fren: None
+    skinPrefab: {fileID: 1388346124683455054, guid: 758a8f185f0654891980aaf7ca22eba3,
+      type: 3}
+  - RobotType: 1
+    SkinType: 2
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 5a1519ae275f4a249ade193b5558fd66, type: 3}
+    skinID: 5000002
+    skinName_KR: "\uBC00\uB9AC\uD130\uB9AC \uBA38\uD050\uB9AC"
+    skinName_EN: Military Mercury
+    skinName_GER: Military-Mercury
+    skinName_Fren: None
+    skinPrefab: {fileID: 7288751887563678903, guid: 76bdc46a95142457f817b968413281d7,
+      type: 3}
+  - RobotType: 1
+    SkinType: 4
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 8be7117c82a890b4fb2059cba34fe799, type: 3}
+    skinID: 5000003
+    skinName_KR: "\uACE0\uB300\uBCD1\uAE30 \uBA38\uD050\uB9AC"
+    skinName_EN: Ancient weapon Mercury
+    skinName_GER: "Altert\xFCmlicher Mercury"
+    skinName_Fren: None
+    skinPrefab: {fileID: 4434694797427632198, guid: d2edd1983b981443cb4edb00fb8e2d32,
+      type: 3}
+  - RobotType: 1
+    SkinType: 1
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 360f6b5db8b21ce45828d8a2b0c526bf, type: 3}
+    skinID: 5000004
+    skinName_KR: "\uC545\uB9C8 \uBA38\uD050\uB9AC"
+    skinName_EN: Devil Mercury
+    skinName_GER: Teufels-Mercury
+    skinName_Fren: None
+    skinPrefab: {fileID: 8868928629471250245, guid: 3b93ebe1a191f433f9e03d51a2c8c1ea,
+      type: 3}
+  - RobotType: 1
+    SkinType: 3
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 75906ba198036ac45a353fb280ffdea9, type: 3}
+    skinID: 5000005
+    skinName_KR: "\uB124\uC628\uC0AC\uC778 \uBA38\uD050\uB9AC"
+    skinName_EN: Neon-sign Mercury
+    skinName_GER: Neon-Mercury
+    skinName_Fren: None
+    skinPrefab: {fileID: 552886720082127127, guid: 9aa72119256c1415c94993884667d803,
+      type: 3}

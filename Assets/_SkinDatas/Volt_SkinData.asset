@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4d873d98a82f6f459deb0dc7e140113, type: 3}
+  m_Name: Volt_SkinData
+  m_EditorClassIdentifier: 
+  robotType: 0
+  RobotSkins:
+  - RobotType: 0
+    SkinType: 0
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 7d5e77ebd383d4916bfe9cec64af9feb, type: 3}
+    skinID: -1
+    skinName_KR: "\uBCFC\uD2B8"
+    skinName_EN: Volt
+    skinName_GER: Volt
+    skinName_Fren: Volt
+    skinPrefab: {fileID: 5600186598120822156, guid: 4cdc00ee9a8394883a8c9b5da08907b2,
+      type: 3}
+  - RobotType: 0
+    SkinType: 5
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 36db8b24412574f34a180223462ceb85, type: 3}
+    skinID: 5000030
+    skinName_KR: "\uBE14\uB8E8 \uBCFC\uD2B8"
+    skinName_EN: The blue Volt
+    skinName_GER: Azurblauer Volt
+    skinName_Fren: None
+    skinPrefab: {fileID: 5340455409165550063, guid: 60360de2c65c048069fa1b92ba7c1b32,
+      type: 3}
+  - RobotType: 0
+    SkinType: 2
+    Skin: []
+    skinImage: {fileID: 2800000, guid: bda19397d0bc14872a6fa8d28e0b19a6, type: 3}
+    skinID: 5000031
+    skinName_KR: "\uBC00\uB9AC\uD130\uB9AC \uBCFC\uD2B8"
+    skinName_EN: Military Volt
+    skinName_GER: Military-Volt
+    skinName_Fren: None
+    skinPrefab: {fileID: 6385947455152990838, guid: 1b14ef83d104c4ef0a135f2256afb693,
+      type: 3}
+  - RobotType: 0
+    SkinType: 4
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 8d927cd841d9f469bb89f584f6f1e36f, type: 3}
+    skinID: 5000032
+    skinName_KR: "\uACE0\uB300\uBCD1\uAE30 \uBCFC\uD2B8"
+    skinName_EN: Ancient weapond Volt
+    skinName_GER: "Altert\xFCmlicher Volt"
+    skinName_Fren: None
+    skinPrefab: {fileID: 9173335661405064491, guid: 9b138be6bbbed4d1c943123112a2ec85,
+      type: 3}
+  - RobotType: 0
+    SkinType: 1
+    Skin: []
+    skinImage: {fileID: 2800000, guid: e1d08f81a002f4286a628b806be991ff, type: 3}
+    skinID: 5000033
+    skinName_KR: "\uC545\uADC0 \uBCFC\uD2B8"
+    skinName_EN: The devil Volt
+    skinName_GER: Teufelsvolt
+    skinName_Fren: None
+    skinPrefab: {fileID: 3997500523828869613, guid: 2485b87ef7ccb4ef792f955e551c3c6f,
+      type: 3}
+  - RobotType: 0
+    SkinType: 3
+    Skin: []
+    skinImage: {fileID: 2800000, guid: a7c7765eadbba4054b31bd83eabbf21f, type: 3}
+    skinID: 5000034
+    skinName_KR: "\uB124\uC628\uC0AC\uC778 \uBCFC\uD2B8"
+    skinName_EN: Neon-sign Volt
+    skinName_GER: Neon-Volt
+    skinName_Fren: None
+    skinPrefab: {fileID: 1249196378545405778, guid: 58441ff692cb7463590bd8615e641a54,
+      type: 3}

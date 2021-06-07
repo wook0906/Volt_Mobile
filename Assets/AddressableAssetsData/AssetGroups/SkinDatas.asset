@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SkinDatas
+  m_EditorClassIdentifier: 
+  m_GroupName: SkinDatas
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3dc0aeb6ee40c4df988cb1123b5cdf1c
+  m_SerializeEntries:
+  - m_GUID: 073d41f6d82e44414a86cf8d823f3e9e
+    m_Address: Assets/SkinDatas/Volt_SkinData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SkinDatas
+    - DLC
+    m_MainAsset: {fileID: 11400000, guid: 073d41f6d82e44414a86cf8d823f3e9e, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 073d41f6d82e44414a86cf8d823f3e9e, type: 2}
+  - m_GUID: c4ad80048bde84246866799cb2e53e1b
+    m_Address: Assets/SkinDatas/Reaper_SkinData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SkinDatas
+    - DLC
+    m_MainAsset: {fileID: 11400000, guid: c4ad80048bde84246866799cb2e53e1b, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: c4ad80048bde84246866799cb2e53e1b, type: 2}
+  - m_GUID: d2221b2f4aa654ba8bc1d5121a2c7d31
+    m_Address: Assets/SkinDatas/Mercury_SkinData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SkinDatas
+    - DLC
+    m_MainAsset: {fileID: 11400000, guid: d2221b2f4aa654ba8bc1d5121a2c7d31, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: d2221b2f4aa654ba8bc1d5121a2c7d31, type: 2}
+  - m_GUID: dc25ca8e6f721411e8ec59403268228c
+    m_Address: Assets/SkinDatas/Hound_SkinData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SkinDatas
+    - DLC
+    m_MainAsset: {fileID: 11400000, guid: dc25ca8e6f721411e8ec59403268228c, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: dc25ca8e6f721411e8ec59403268228c, type: 2}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bdbdea9a67d714e07aee87a2a9375d3c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 52295d08c02324673ac9f6f362e20ab1, type: 2}
+    - {fileID: 11400000, guid: e35eccfc07ff746b58193e400f1c9f16, type: 2}

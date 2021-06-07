@@ -1,0 +1,594 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6735c6338bef0495f9d58a533f886674
+  m_SerializeEntries:
+  - m_GUID: 13410ea6052143443b5cd9ea305e1de3
+    m_Address: Assets/_Prefabs/VFX/Robots/MuzzleEffects/Volt/VFX_VoltCharging.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 13caa43ba9ba39c489cbe7af2df1747f
+    m_Address: Assets/_Prefabs/VFX/Robots/MuzzleEffects/Reaper/VFX_ReaperSlash.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 19f66873a0d0cb54886d517a8a17683a
+    m_Address: Assets/_Prefabs/VFX/ModuleEffects/VFX_Anchor.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1b9c95a640d879f44b6774e6c5f8944f
+    m_Address: Assets/_Prefabs/VFX/Maps/VFX_GetVictoryCoinItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1c69017220c88854c99b08ee6ab1543d
+    m_Address: Assets/_Prefabs/VFX/Robots/MuzzleEffects/Volt/DoubleAttack/VFX_VoltSlash.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2d31389ca32487f469f91d4ad205a4f9
+    m_Address: Assets/_Prefabs/VFX/Robots/HitEffect/VFX_VoltHit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2df8c20214516b74aa9f58272e4423da
+    m_Address: VFX_ReaperMuzzle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 147176, guid: 2df8c20214516b74aa9f58272e4423da, type: 3}
+    m_TargetAsset: {fileID: 147176, guid: 2df8c20214516b74aa9f58272e4423da, type: 3}
+  - m_GUID: 2f0624fa20144034c8c3930bd289680f
+    m_Address: VFX_HoundMuzzle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2f132baa212154c968211aa8e42023e4
+    m_Address: Assets/_Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 327a5f2a31b2d1e4799628cfb136057b
+    m_Address: Assets/_Prefabs/VFX/Robots/HitEffect/VFX_ReaperHit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 38a698bc595f9264b9c969fdc6230540
+    m_Address: Assets/_Prefabs/VFX/Robots/VFX_RobotCollision.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 409cb6b2bba5c6141ab7d3131f01f8b3
+    m_Address: Assets/_Prefabs/Modules/Armargeddon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DLC
+    - Prefab
+    - Object
+    m_MainAsset: {fileID: 2006949272307799988, guid: 409cb6b2bba5c6141ab7d3131f01f8b3,
+      type: 3}
+    m_TargetAsset: {fileID: 2006949272307799988, guid: 409cb6b2bba5c6141ab7d3131f01f8b3,
+      type: 3}
+  - m_GUID: 42dfe1b59339b4f42b82389e0851c8b0
+    m_Address: Assets/_Prefabs/Modules/TimeBomb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DLC
+    - Prefab
+    - Object
+    m_MainAsset: {fileID: 2783404600478824508, guid: 42dfe1b59339b4f42b82389e0851c8b0,
+      type: 3}
+    m_TargetAsset: {fileID: 2783404600478824508, guid: 42dfe1b59339b4f42b82389e0851c8b0,
+      type: 3}
+  - m_GUID: 436b07d5f81028340b158557c6e3917f
+    m_Address: Assets/_Prefabs/VFX/Maps/VFX_GetModuleItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 43c27ffaa6eff7b45bb92edab691b740
+    m_Address: Assets/_Prefabs/VFX/ModuleEffects/VFX_SawbladeMark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 497321bc0b9219b4f893e68f1149dc53
+    m_Address: Assets/_Prefabs/Maps/Env/Coin.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DLC
+    - Prefab
+    - Object
+    m_MainAsset: {fileID: 4307218432904891260, guid: 497321bc0b9219b4f893e68f1149dc53,
+      type: 3}
+    m_TargetAsset: {fileID: 4307218432904891260, guid: 497321bc0b9219b4f893e68f1149dc53,
+      type: 3}
+  - m_GUID: 4a95cbd592967c646a11f549b737a7af
+    m_Address: Assets/_Prefabs/VFX/Robots/Spawn/VFX_ReaperSpawn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4b9953fed20883d459555b9fbbef2149
+    m_Address: Assets/_Prefabs/VFX/Robots/Spawn/VFX_HoundSpawn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 7306524070344266589, guid: 4b9953fed20883d459555b9fbbef2149,
+      type: 3}
+    m_TargetAsset: {fileID: 7306524070344266589, guid: 4b9953fed20883d459555b9fbbef2149,
+      type: 3}
+  - m_GUID: 4e02b25852777894c9e05eb2ce585d75
+    m_Address: Assets/_Prefabs/VFX/ModuleEffects/VFX_FireEMP.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 59715fd1f2dc81445aa4c36881667436
+    m_Address: Assets/_Prefabs/VFX/ModuleEffects/PowerBeam/VFX_PowerbeamBody.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 598655563c6c5a3489ab40585852cb91
+    m_Address: Assets/_Prefabs/VFX/ModuleEffects/VFX_ExplosionTimebomb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5ffb8629a958e294893047e6a4197222
+    m_Address: Assets/3DModels
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 60f8a68f6ce37499db9998036912c0ee
+    m_Address: Assets/_Prefabs/Modules/Grenade.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DLC
+    - Prefab
+    - Object
+    m_MainAsset: {fileID: 3398930993909335612, guid: 60f8a68f6ce37499db9998036912c0ee,
+      type: 3}
+    m_TargetAsset: {fileID: 3398930993909335612, guid: 60f8a68f6ce37499db9998036912c0ee,
+      type: 3}
+  - m_GUID: 62cad27836b0d8b45993e63eeae06ff0
+    m_Address: Assets/_Prefabs/VFX/ModuleEffects/VFX_Repulsionblast.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 64e8ba1d4640e9b488effc88ef73b5c3
+    m_Address: Assets/_Prefabs/VFX/ModuleEffects/VFX_ExplosionArmageddon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 65d183902dd93b44cae98d2bb52f1c4f
+    m_Address: Assets/_Prefabs/VFX/ModuleEffects/VFX_Teleport.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6be4fc4170a3f894ba557e52af6e6e57
+    m_Address: Assets/_Prefabs/Scenes/Rome/Ballista.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DLC
+    - Prefab
+    - Object
+    m_MainAsset: {fileID: 2002568772025726762, guid: 6be4fc4170a3f894ba557e52af6e6e57,
+      type: 3}
+    m_TargetAsset: {fileID: 2002568772025726762, guid: 6be4fc4170a3f894ba557e52af6e6e57,
+      type: 3}
+  - m_GUID: 722b776c8da8aaa4fa98cfbe799409ac
+    m_Address: Assets/_Prefabs/VFX/Robots/HitEffect/VFX_SawbladeHit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7740b64b4372faf45811fc486fa64bbd
+    m_Address: Assets/_Prefabs/VFX/Robots/HitEffect/VFX_EMPStun.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7dfe188591a89804cbd0295881f84b6b
+    m_Address: Assets/_Prefabs/VFX/ModuleEffects/PowerBeam/VFX_PowerbeamHead.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8007d590e8d95d6448ebde02f4b91605
+    m_Address: Assets/_Prefabs/VFX/Robots/Spawn/VFX_MercurySpawn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 824b63ef35595da4694fe27e187eec6d
+    m_Address: Assets/_Prefabs/VFX/Maps/VFX_GetRepairItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8abc82aaa59e1a34c83f467884892aa5
+    m_Address: Assets/_Prefabs/VFX/VFX_FallTile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - VFX
+    - DLC
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8e5b1dc5c0501c64a91386e1bec0f50f
+    m_Address: Assets/_Prefabs/VFX/Robots/Spawn/VFX_KillboySpawn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 965ef1c98cc3e2a4b92468396d649770
+    m_Address: Assets/_Prefabs/VFX/Robots/VFX_RobotSpark1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a2ffa5ea039fb9b4ea5a26e5344f4057
+    m_Address: Assets/_Prefabs/VFX/ModuleEffects/VFX_Shield.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a52c098385b99c042aa7cd382ea40504
+    m_Address: VFX_VoltMuzzle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a62f3fe3f1212a0428d1203d41264d9f
+    m_Address: Assets/_Prefabs/VFX/ModuleEffects/VFX_Shockwave.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a714f20d17c7b0045ac4a3088e45033a
+    m_Address: Assets/_Prefabs/Modules/Powerbeam.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DLC
+    - Prefab
+    - Object
+    m_MainAsset: {fileID: 2666655408031561147, guid: a714f20d17c7b0045ac4a3088e45033a,
+      type: 3}
+    m_TargetAsset: {fileID: 2666655408031561147, guid: a714f20d17c7b0045ac4a3088e45033a,
+      type: 3}
+  - m_GUID: aaa730c2e80ff0644bc04f92a10ec348
+    m_Address: Assets/_Prefabs/VFX/Robots/HitEffect/VFX_MercuryHit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ab0af7de19d61004ab61a59de62b4aed
+    m_Address: Assets/_Prefabs/VFX/Robots/MuzzleEffects/Volt/DoubleAttack/VFX_VoltSting.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ad77061e3d7ec2b4cb7499c915b5ec80
+    m_Address: VFX_MercuryMuzzle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: af3f36d41d3082d4babd3d20b60bde4d
+    m_Address: Assets/_Prefabs/VFX/VFX_ResponesPoint.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b3ce072736b32f44399dfd8bf9b14c78
+    m_Address: Assets/_Prefabs/Maps/Env/RepairKit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DLC
+    - Prefab
+    - Object
+    m_MainAsset: {fileID: 7763309037827998226, guid: b3ce072736b32f44399dfd8bf9b14c78,
+      type: 3}
+    m_TargetAsset: {fileID: 7763309037827998226, guid: b3ce072736b32f44399dfd8bf9b14c78,
+      type: 3}
+  - m_GUID: b432e20d9894fe547979b5c5d55ebb16
+    m_Address: Assets/_Prefabs/VFX/Robots/VFX_RobotSpark2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b74e7d774eedf4248a8f8e0c51c54045
+    m_Address: Assets/_Prefabs/VFX/Maps/Rome/VFX_BallistaSonicBoom.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: baabe6be59399da4cb53b075c89123d3
+    m_Address: Assets/_Prefabs/Maps/Env/ModuleBox.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DLC
+    - Prefab
+    - Object
+    m_MainAsset: {fileID: 4466576648866437451, guid: baabe6be59399da4cb53b075c89123d3,
+      type: 3}
+    m_TargetAsset: {fileID: 4466576648866437451, guid: baabe6be59399da4cb53b075c89123d3,
+      type: 3}
+  - m_GUID: bd864c39e28bb4f40ad0f5a9a79536ca
+    m_Address: Assets/_Prefabs/VFX/Robots/VFX_ExplosionRobot.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c35c9f553e234db418dbd64da1785371
+    m_Address: Assets/_Prefabs/Game/Contents/MSG2D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DLC
+    - Prefab
+    - Object
+    m_MainAsset: {fileID: 3178985966676133646, guid: c35c9f553e234db418dbd64da1785371,
+      type: 3}
+    m_TargetAsset: {fileID: 3178985966676133646, guid: c35c9f553e234db418dbd64da1785371,
+      type: 3}
+  - m_GUID: c68dbe9967c04ee4cb27461ca71caab1
+    m_Address: Assets/_Prefabs/VFX/ModuleEffects/PowerBeam/VFX_PowerbeamTail.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d26fbaadd11cf494ca9fd4d2cfbfdcf5
+    m_Address: Assets/_Prefabs/VFX/Robots/HitEffect/VFX_EMPHit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d8d93fefd752c4ac68e5ff81abf632cd
+    m_Address: Assets/_Prefabs/Scenes/Tokyo/SateliteBeam.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d8e679b639f438d40bf774e98fc47e45
+    m_Address: Assets/_Prefabs/VFX/Robots/HitEffect/VFX_HoundHit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e49a2843099b14347a9d1f3b1801183b
+    m_Address: Assets/_Prefabs/VFX/Robots/VFX_RobotRunSmoke.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e7ae862ee966a0d49a4f5fe830cbfbe3
+    m_Address: Assets/_Prefabs/Game/Contents/MSG3D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DLC
+    - Prefab
+    - Object
+    m_MainAsset: {fileID: 690321131516870764, guid: e7ae862ee966a0d49a4f5fe830cbfbe3,
+      type: 3}
+    m_TargetAsset: {fileID: 690321131516870764, guid: e7ae862ee966a0d49a4f5fe830cbfbe3,
+      type: 3}
+  - m_GUID: ea6f058b8e3c1734aa14283be994ff17
+    m_Address: Assets/_Prefabs/VFX/ModuleEffects/VFX_DummyGearModule.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f388f56d14f7497408ebbe52e03460ef
+    m_Address: Assets/_Prefabs/VFX/VFX_ExplosionGrenade.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f8e51d59f322fc34b9c6cb0b938c0074
+    m_Address: Assets/_Prefabs/VFX/ModuleEffects/VFX_HackingModule.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f95ef9a8f2bccc148a80df24612f0048
+    m_Address: Assets/_Prefabs/VFX/Robots/Spawn/VFX_VoltSpawn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fe1e14d506de3734bafe5508b560593c
+    m_Address: Assets/_Prefabs/VFX/Robots/HitEffect/VFX_ElectricTrapHit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fe578dc4d2f86094aae76590406e695a
+    m_Address: Assets/_Prefabs/VFX/Maps/Rome/VFX_FallInWater.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+    - DLC
+    - VFX
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bdbdea9a67d714e07aee87a2a9375d3c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4e402ca5a2e7b4dbaa8f1ab00da69755, type: 2}
+    - {fileID: 11400000, guid: 5febbe2a5111c46dd8d5a3bd00d8242d, type: 2}

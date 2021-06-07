@@ -1,0 +1,11 @@
+<LoginProgress_Popup>
+  <Block>
+    <UISprite Atlas="Volt_UI" Sprite="dark" />
+  </Block>
+  <Background>
+    <UISprite Atlas="Volt_Panels" Sprite="middle panel03_Opaque" />
+  </Background>
+  <Internet_Sprite>
+    <UISprite Atlas="Volt_iconatlas" Sprite="Icon_Internet" />
+  </Internet_Sprite>
+</LoginProgress_Popup>

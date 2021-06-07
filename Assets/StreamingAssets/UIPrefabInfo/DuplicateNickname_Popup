@@ -1,0 +1,12 @@
+<DuplicateNickname_Popup>
+  <Background>
+    <UISprite Atlas="Volt_UI" Sprite="small panel01_Opaque" />
+  </Background>
+  <Ok_Btn>
+    <UISprite Atlas="Volt_UI" Sprite="Btn_OK_n" />
+    <UIButton NormalSprite="Btn_OK_n" HoverSprite="Btn_OK_n" PressedSprite="Btn_OK_p" DisabledSprite="Volt_Title_Botton_Off" />
+  </Ok_Btn>
+  <Block>
+    <UISprite Atlas="Volt_UI" Sprite="dark" />
+  </Block>
+</DuplicateNickname_Popup>

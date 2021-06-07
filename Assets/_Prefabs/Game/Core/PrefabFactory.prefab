@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7736400977318084338
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7736400977318084336}
+  - component: {fileID: 7736400977318084337}
+  m_Layer: 0
+  m_Name: PrefabFactory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7736400977318084336
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7736400977318084338}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.7714657, y: 5.249837, z: 1.4413038}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7736400977318084337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7736400977318084338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ffa2bb713ec179459fcc460f036c29b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ballistaPrefab: {fileID: 2002568772025726762, guid: 6be4fc4170a3f894ba557e52af6e6e57,
+    type: 3}
+  timeBombPrefab: {fileID: 2783404600478824508, guid: 42dfe1b59339b4f42b82389e0851c8b0,
+    type: 3}
+  coinPrefab: {fileID: 4307218432904891260, guid: 497321bc0b9219b4f893e68f1149dc53,
+    type: 3}
+  moduleRandomBoxPrefab: {fileID: 4466576648866437451, guid: baabe6be59399da4cb53b075c89123d3,
+    type: 3}
+  repairKitPrefab: {fileID: 7763309037827998226, guid: b3ce072736b32f44399dfd8bf9b14c78,
+    type: 3}
+  robotPanel: {fileID: 8820947454694340096, guid: 8e356ea413d09fa429d9d16e6eb5d6d0,
+    type: 3}
+  powerBeamModule: {fileID: 2666655408031561147, guid: a714f20d17c7b0045ac4a3088e45033a,
+    type: 3}
+  grenade: {fileID: 3398930993909335612, guid: 60f8a68f6ce37499db9998036912c0ee, type: 3}
+  spark:
+  - {fileID: 8828334702492248781, guid: 965ef1c98cc3e2a4b92468396d649770, type: 3}
+  - {fileID: 5298107509306160587, guid: b432e20d9894fe547979b5c5d55ebb16, type: 3}
+  powerBeam:
+  - {fileID: 8724764763745750758, guid: 59715fd1f2dc81445aa4c36881667436, type: 3}
+  - {fileID: 5410161910611385438, guid: c68dbe9967c04ee4cb27461ca71caab1, type: 3}
+  - {fileID: 8674800703034956728, guid: 7dfe188591a89804cbd0295881f84b6b, type: 3}
+  runSmoke: {fileID: 3067700112309089679, guid: e49a2843099b14347a9d1f3b1801183b,
+    type: 3}
+  shieldEffect: {fileID: 3157182652522442394, guid: a2ffa5ea039fb9b4ea5a26e5344f4057,
+    type: 3}
+  volt_charging: {fileID: 310699048762742314, guid: 13410ea6052143443b5cd9ea305e1de3,
+    type: 3}
+  win_voltMuzzleEffect: {fileID: 7812246636587841515, guid: a52c098385b99c042aa7cd382ea40504,
+    type: 3}
+  win_mercuryMuzzleEffect: {fileID: 3963836079778689241, guid: ad77061e3d7ec2b4cb7499c915b5ec80,
+    type: 3}
+  win_houndMuzzleEffect: {fileID: 2771114693466666999, guid: 2f0624fa20144034c8c3930bd289680f,
+    type: 3}
+  win_reaperMuzzleEffect: {fileID: 147176, guid: 2df8c20214516b74aa9f58272e4423da,
+    type: 3}
+  sawBladeMark: {fileID: 2521633651596607969, guid: 43c27ffaa6eff7b45bb92edab691b740,
+    type: 3}
+  voltHitEffect: {fileID: 5833226409049410692, guid: 2d31389ca32487f469f91d4ad205a4f9,
+    type: 3}
+  mercuryHitEffect: {fileID: 122632, guid: aaa730c2e80ff0644bc04f92a10ec348, type: 3}
+  reaperHitEffect: {fileID: 122526, guid: 327a5f2a31b2d1e4799628cfb136057b, type: 3}
+  houndHitEffect: {fileID: 118086, guid: d8e679b639f438d40bf774e98fc47e45, type: 3}
+  effect_ballista: {fileID: 2584292031680065269, guid: b74e7d774eedf4248a8f8e0c51c54045,
+    type: 3}
+  effect_SateliteBeam: {fileID: 8849992131394194937, guid: d8d93fefd752c4ac68e5ff81abf632cd,
+    type: 3}
+  effect_sawBlade: {fileID: 7689942348005115513, guid: 722b776c8da8aaa4fa98cfbe799409ac,
+    type: 3}
+  effect_EMPHit: {fileID: 4493685717094159596, guid: d26fbaadd11cf494ca9fd4d2cfbfdcf5,
+    type: 3}
+  effect_EMPStun: {fileID: 2144702707255671478, guid: 7740b64b4372faf45811fc486fa64bbd,
+    type: 3}
+  effect_Hacking: {fileID: 2462604172046463543, guid: f8e51d59f322fc34b9c6cb0b938c0074,
+    type: 3}
+  effect_repulsionBlast: {fileID: 6696803164225724935, guid: 62cad27836b0d8b45993e63eeae06ff0,
+    type: 3}
+  effect_shockWave: {fileID: 2586171992983613410, guid: a62f3fe3f1212a0428d1203d41264d9f,
+    type: 3}
+  effect_RobotDeath: {fileID: 6464960438903187990, guid: bd864c39e28bb4f40ad0f5a9a79536ca,
+    type: 3}
+  effect_CollisionWithRobot: {fileID: 4451324417043888117, guid: 38a698bc595f9264b9c969fdc6230540,
+    type: 3}
+  effect_Teleport: {fileID: 350904580779062359, guid: 65d183902dd93b44cae98d2bb52f1c4f,
+    type: 3}
+  effect_Grenade: {fileID: 1355861970445402169, guid: f388f56d14f7497408ebbe52e03460ef,
+    type: 3}
+  effect_HitVoltage: {fileID: 3383295247851154828, guid: fe1e14d506de3734bafe5508b560593c,
+    type: 3}
+  effect_TimeBomb: {fileID: 1355861970445402169, guid: f388f56d14f7497408ebbe52e03460ef,
+    type: 3}
+  effect_Anchor: {fileID: 6082224645846746969, guid: 19f66873a0d0cb54886d517a8a17683a,
+    type: 3}
+  effect_dummyGear: {fileID: 6958787578106792714, guid: ea6f058b8e3c1734aa14283be994ff17,
+    type: 3}
+  repairKitGetParticle: {fileID: 6165787550932778309, guid: 824b63ef35595da4694fe27e187eec6d,
+    type: 3}
+  vpGetParticle: {fileID: 9138514506829456712, guid: 1b9c95a640d879f44b6774e6c5f8944f,
+    type: 3}
+  getModuleParticle: {fileID: 8324222809283651764, guid: 436b07d5f81028340b158557c6e3917f,
+    type: 3}
+  effect_TileFall: {fileID: 122632, guid: aaa730c2e80ff0644bc04f92a10ec348, type: 3}
+  effect_fallToWater: {fileID: 6213862107182580837, guid: fe578dc4d2f86094aae76590406e695a,
+    type: 3}
+  effect_RobotSpawn:
+  - {fileID: 408029970723196567, guid: f95ef9a8f2bccc148a80df24612f0048, type: 3}
+  - {fileID: 1379349070468444274, guid: 8007d590e8d95d6448ebde02f4b91605, type: 3}
+  - {fileID: 7306524070344266589, guid: 4b9953fed20883d459555b9fbbef2149, type: 3}
+  - {fileID: 1716372805877176391, guid: 4a95cbd592967c646a11f549b737a7af, type: 3}
+  - {fileID: 6649914243685444405, guid: 8e5b1dc5c0501c64a91386e1bec0f50f, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e2df447387f1493781c9c27321c3df5, type: 3}
+  m_Name: Hound_BasicAttackData
+  m_EditorClassIdentifier: 
+  effectData:
+  - {fileID: 11400000, guid: f8a61ff859147474c834536c9322d442, type: 2}
+  - {fileID: 11400000, guid: b8d6f82f7856645c481ea49cefd84ffa, type: 2}
+  - {fileID: 11400000, guid: 0eaa9952e168e4493a7165700093f958, type: 2}
+  - {fileID: 11400000, guid: 08aacb8e2a49e449e83bc2f252731f70, type: 2}
+  hitEffect: {fileID: 118086, guid: 6b5148bbfa90c1f48a782f410802a1fa, type: 3}
+  audioClip: {fileID: 8300000, guid: f77d461d9aa5c5c4db043892c20e9f3a, type: 3}
+  damage: 1
+  cameraShakeType: 1

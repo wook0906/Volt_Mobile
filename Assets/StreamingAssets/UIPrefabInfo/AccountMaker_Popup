@@ -1,0 +1,15 @@
+<AccountMaker_Popup>
+  <Block>
+    <UISprite Atlas="Volt_UI" Sprite="dark" />
+  </Block>
+  <Background>
+    <UISprite Atlas="Volt_Panels" Sprite="middle pannel02_Opaque" />
+  </Background>
+  <Nickname_InputField>
+    <UISprite Atlas="Volt_UI" Sprite="dark" />
+  </Nickname_InputField>
+  <Ok_Btn>
+    <UISprite Atlas="Volt_UI" Sprite="Btn_OK_n" />
+    <UIButton NormalSprite="Btn_OK_n" HoverSprite="Btn_OK_n" PressedSprite="Btn_OK_p" DisabledSprite="Dark" />
+  </Ok_Btn>
+</AccountMaker_Popup>

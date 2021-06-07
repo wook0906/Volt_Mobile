@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  m_GroupName: Data
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2e2720c5875414016955fcbd0ea9fe38
+  m_SerializeEntries:
+  - m_GUID: 119b6a9d5a09c4852be9388a7623b008
+    m_Address: ObjectPoolData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DLC
+    - Data
+    m_MainAsset: {fileID: 11400000, guid: 119b6a9d5a09c4852be9388a7623b008, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 119b6a9d5a09c4852be9388a7623b008, type: 2}
+  - m_GUID: 40118bc8c90225745beaae649b58a756
+    m_Address: Assets/_ScriptableObjects
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+    - DLC
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a9581b27449c44c60b6afd5e1fbfe753
+    m_Address: VFXPoolData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DLC
+    - Data
+    m_MainAsset: {fileID: 11400000, guid: a9581b27449c44c60b6afd5e1fbfe753, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: a9581b27449c44c60b6afd5e1fbfe753, type: 2}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bdbdea9a67d714e07aee87a2a9375d3c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1c6816e52b34041e092f2a4d8ecb275f, type: 2}
+    - {fileID: 11400000, guid: e90b518172da34193964216e0c8966aa, type: 2}

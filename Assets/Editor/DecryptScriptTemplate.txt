@@ -1,0 +1,27 @@
+﻿using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+using System.IO;
+using System.Text;
+
+public class $ExcelData$
+{	
+	private static readonly string _key = "$KEY$";
+    private static readonly string _importPath = "$IMPORT_PATH$";
+
+    public $ClassName$ obj;
+
+    public $ExcelData$()
+    {
+        using(FileStream stream = File.Open(_importPath, FileMode.Open, FileAccess.Read))
+        {
+            byte[] data = new byte[stream.Length];
+            stream.Read(data, 0, data.Length);
+
+            string jsonData = Util.Decrypt(Encoding.UTF8.GetString(data), _key);
+
+            obj = JsonUtility.FromJson<$ClassName$>(jsonData);
+        }
+    }
+}
+

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tile
+  - Killbot
+  - Robot
+  - Mine
+  - ModuleCard
+  - VP
+  - Pit
+  - Amargeddon
+  - RepairKit
+  - Grenades
+  - TimeBomb
+  - SoundPlayer
+  - Ballista
+  - ElectricTrap
+  - Wall
+  - Water
+  - PowerbeamModule
+  - NeedScalingParticle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tile
+  - Robot
+  - Items
+  - Pit
+  - Amargeddon
+  - Grenades
+  - TimeBomb
+  - BreakableObstacle
+  - Obstacle
+  - PostProcessing
+  - Wall
+  - BG_UI
+  - GMUI
+  - PlayerUI
+  - Env
+  - Tutorial_UI
+  - Popup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

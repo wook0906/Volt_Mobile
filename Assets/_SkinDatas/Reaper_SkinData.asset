@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4d873d98a82f6f459deb0dc7e140113, type: 3}
+  m_Name: Reaper_SkinData
+  m_EditorClassIdentifier: 
+  robotType: 3
+  RobotSkins:
+  - RobotType: 3
+    SkinType: 0
+    Skin: []
+    skinImage: {fileID: 2800000, guid: f1ef14e8cd4f93e47ace316b20570147, type: 3}
+    skinID: -1
+    skinName_KR: "\uB9AC\uD37C"
+    skinName_EN: Reaper
+    skinName_GER: Reaper
+    skinName_Fren: Reaper
+    skinPrefab: {fileID: 449957583794429165, guid: f800008e1a8174f9fbb5773539f9a495,
+      type: 3}
+  - RobotType: 3
+    SkinType: 6
+    Skin: []
+    skinImage: {fileID: 2800000, guid: ff94cc04639265b41a6871464b5a3b99, type: 3}
+    skinID: 5000010
+    skinName_KR: "\uB808\uB4DC \uB9AC\uD37C"
+    skinName_EN: The Red Reaper
+    skinName_GER: Blutroter Reaper
+    skinName_Fren: None
+    skinPrefab: {fileID: 4879691098270754215, guid: 02b581c8ae56a4906abe6bd8aab5d62f,
+      type: 3}
+  - RobotType: 3
+    SkinType: 2
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 14a7ab99ce21bc344b348fc5595ef1a2, type: 3}
+    skinID: 5000011
+    skinName_KR: "\uBC00\uB9AC\uD130\uB9AC \uB9AC\uD37C"
+    skinName_EN: Military Reaper
+    skinName_GER: Military-Reaper
+    skinName_Fren: None
+    skinPrefab: {fileID: 1298745839653527684, guid: 9b7d5b434153445fd848c57da6c5bdfa,
+      type: 3}
+  - RobotType: 3
+    SkinType: 4
+    Skin: []
+    skinImage: {fileID: 2800000, guid: be18bedf668c32d49ab947962830ea33, type: 3}
+    skinID: 5000012
+    skinName_KR: "\uACE0\uB300\uBCD1\uAE30 \uB9AC\uD37C"
+    skinName_EN: Ancient weapon Reaper
+    skinName_GER: "Altert\xFCmlicher Reaper"
+    skinName_Fren: None
+    skinPrefab: {fileID: 8102202108579667522, guid: 29bd104816b2444cbbf9b68a8ae39ebd,
+      type: 3}
+  - RobotType: 3
+    SkinType: 1
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 824bf5674134db2448840433c54649a2, type: 3}
+    skinID: 5000013
+    skinName_KR: "\uD0C0\uB77D \uB9AC\uD37C"
+    skinName_EN: The Black Grim Reaper
+    skinName_GER: Sensenmann-Reaper
+    skinName_Fren: None
+    skinPrefab: {fileID: 5512467751918020431, guid: 5540d3632426f42969ccff905fcec5e5,
+      type: 3}
+  - RobotType: 3
+    SkinType: 3
+    Skin: []
+    skinImage: {fileID: 2800000, guid: 1abe2dbcb5602ba4e92e85d5be0aea89, type: 3}
+    skinID: 5000014
+    skinName_KR: "\uB124\uC628\uC0AC\uC778 \uB9AC\uD37C"
+    skinName_EN: Neon-sign Reaper
+    skinName_GER: Neon-Reaper
+    skinName_Fren: None
+    skinPrefab: {fileID: 8692035461541048387, guid: 211d718f4fb4c40eb976ff876ed463fe,
+      type: 3}
